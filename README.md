@@ -1,1 +1,1 @@
-# M1-hotel-mamagement
+# M1-hotel-manegement
