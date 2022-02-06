@@ -1,1 +1,1 @@
-# M1-hotel-manegement
+# M1-hotel-management
