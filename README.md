@@ -9,7 +9,8 @@ This repository is used to create Hotel Management using C programming language
  
  low level Requirements
 # Folder	Structure
-![image](https://user-images.githubusercontent.com/74053403/154531630-bf36950d-40bc-4ee3-ac4a-1e7f1fbed220.png)
+![image](https://user-images.githubusercontent.com/74053403/154545322-538f37bb-f261-4dab-8f0b-734e8e045c15.png)
+
 
 
 
