@@ -5,7 +5,8 @@
 
 # linux cisco
 
- [DeenaRajagopal-NDG Linux Unhatc-certificate (1).pdf](https://github.com/deena2001/M1_hotel_management_Util/files/8090860/DeenaRajagopal-NDG.Linux.Unhatc-certificate.1.pdf)
+ ![NDG ](https://user-images.githubusercontent.com/74053403/154542536-327d35fd-7b3e-4204-b3e3-a8c07a1bd746.png)
+
 
 
 # hackerearth
