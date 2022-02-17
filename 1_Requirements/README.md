@@ -4,27 +4,30 @@ In short, I have taken up this project to overcome the limitations and easily ta
 
 
 
-#REQUIREMENTS
+# REQUIREMENTS
 
 
-##High level Requirements
-$ we can book room
-$ It is very secure as only the authorized user gets to access the program because of the login function.
-$ The password is kept hidden.
-$ There is a backup of the files in case they get damaged or lost.
-$  Proper Login Validation.
-$ Proper Validation in Adding Information.
+# High level Requirements
+ we can book room
+ It is very secure as only the authorized user gets to access the program because of the login function.
+ The password is kept hidden.
+ There is a backup of the files in case they get damaged or lost.
+  Proper Login Validation.
+ Proper Validation in Adding Information.
 
-##low level Requirements
-Adding, Viewing, Editing, Deleting Records.
-##SWOT
+# low level Requirements
+Adding
+Viewing
+Editing
+Deleting Records.
+# SWOT
 
 
-4W's & 1H
+# 4W's & 1H
 
 WHAT :Hotelmanagement system.
 WHERE :Used in hotels.
 WHEN : Used for room booking.
 WHY :Commercial basis things that are customarily furnished within households but unavaliable to people on a journey away from home.
-1H
+# 1H
 HOW :operates by user inputs.
