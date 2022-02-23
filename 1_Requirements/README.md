@@ -8,18 +8,29 @@ In short, I have taken up this project to overcome the limitations and easily ta
 
 
 # High level Requirements
+
  we can book room
+
  It is very secure as only the authorized user gets to access the program because of the login function.
+
  The password is kept hidden.
+
  There is a backup of the files in case they get damaged or lost.
+ 
   Proper Login Validation.
+
  Proper Validation in Adding Information.
 
 # low level Requirements
+
 Adding
+
 Viewing
+
 Editing
+
 Deleting Records.
+
 # SWOT
 
 ![swot ](https://user-images.githubusercontent.com/74053403/155262667-1c8256fb-f304-45be-a7c2-fb026ec27d18.png)
