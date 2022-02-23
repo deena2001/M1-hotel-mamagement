@@ -22,6 +22,8 @@ Editing
 Deleting Records.
 # SWOT
 
+![swot ](https://user-images.githubusercontent.com/74053403/155262667-1c8256fb-f304-45be-a7c2-fb026ec27d18.png)
+
 
 # 4W's & 1H
 
