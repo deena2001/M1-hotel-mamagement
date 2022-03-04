@@ -26,3 +26,7 @@ This repository is used to create Hotel Management using C programming language
 
 ![image](https://user-images.githubusercontent.com/74053403/156293177-1dc73abc-1e70-4c0b-9416-917b79ce3a98.png)
 
+# Unit Testing
+
+[![UnitTesting](https://github.com/deena2001/M1_hotel_management_Util/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/deena2001/M1_hotel_management_Util/actions/workflows/c-cpp.yml)
+
